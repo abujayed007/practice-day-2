@@ -1,0 +1,51 @@
+{
+  "cola": [
+    {
+      "id": "1",
+      "name": "Coca-Cola",
+      "price": 1.5,
+      "details": "A classic carbonated soft drink with a refreshing taste.",
+      "taste": "Cola",
+      "image_url": "https://www.cokesolutions.com/content/cokesolutions/site/us/en/products/brands/coca-cola/coca-cola.main-image.434-624.png"
+    },
+    {
+      "id": "2",
+      "name": "Pepsi",
+      "price": 1.5,
+      "details": "A popular cola-flavored soft drink.",
+      "taste": "Cola",
+      "image_url": "https://pngimg.com/d/pepsi_PNG8.png"
+    },
+    {
+      "id": "3",
+      "name": "Sprite",
+      "price": 1.5,
+      "details": "A lemon-lime flavored soft drink with a crisp, clean taste.",
+      "taste": "Lemon-Lime",
+      "image_url": "https://www.coca-cola.com/content/dam/onexp/ph/en/brands/sprite/sprite/ph_sprite_prod_bottle_750x750.jpg/width1960.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Mountain dew",
+      "price": "1.25",
+      "details": "very fine taste",
+      "taste": "Orange",
+      "image_url": "https://images.prom.ua/3050273062_w640_h640_mtn-mountain-dew.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Pepsi",
+      "price": "1.25",
+      "details": "Very good taste",
+      "taste": "Cola",
+      "image_url": "https://wallpapers.com/images/high/chilled-pepsi-can-illustration-a2mhoq8txv5un8j1.png"
+    }
+  ],
+  "users": [
+    {
+      "id": "bd8fd8c40ea9e",
+      "name": "Shovon",
+      "email": "shovon@gmail.com"
+    }
+  ]
+}
